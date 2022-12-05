@@ -3,7 +3,7 @@
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/towhidulislamalif/product-preview-card-component-main)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL here](https://product-preview-card-solutionn.netlify.app/)
 
 ## My process
 
