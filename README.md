@@ -2,8 +2,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/towhidulislamalif/product-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/towhidulislamalif/product-preview-card-component-main)
+- Live Site URL: [Live site URL here](https://your-live-site-url.com)
 
 ## My process
 
@@ -19,5 +19,5 @@
 
 <!-- - Website - [Add your name here](https://www.your-site.com) -->
 
-- Github - [@githubprofile](https://github.com/towhidulislamalif) -->
-- LinkedIn - [@linkedinprofile](https://www.linkedin.com/in/towhidul-islam-003614165/) -->
+- Github - [githubprofile](https://github.com/towhidulislamalif)
+- LinkedIn - [linkedinprofile](https://www.linkedin.com/in/towhidul-islam-003614165/)
